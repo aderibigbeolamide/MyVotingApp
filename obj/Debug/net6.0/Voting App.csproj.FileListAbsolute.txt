@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Voting App\bin\Debug\net6.0\Voting App.exe
+C:\Users\DELL\Desktop\Voting App\bin\Debug\net6.0\Voting App.deps.json
+C:\Users\DELL\Desktop\Voting App\bin\Debug\net6.0\Voting App.runtimeconfig.json
+C:\Users\DELL\Desktop\Voting App\bin\Debug\net6.0\Voting App.dll
+C:\Users\DELL\Desktop\Voting App\bin\Debug\net6.0\Voting App.pdb
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.dll
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\refint\Voting App.dll
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.pdb
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\Voting App.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Voting App\obj\Debug\net6.0\ref\Voting App.dll
